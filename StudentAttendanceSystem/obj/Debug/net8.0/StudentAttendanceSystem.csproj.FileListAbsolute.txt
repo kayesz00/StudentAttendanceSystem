@@ -1,0 +1,14 @@
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\bin\Debug\net8.0\StudentAttendanceSystem.exe
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\bin\Debug\net8.0\StudentAttendanceSystem.deps.json
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\bin\Debug\net8.0\StudentAttendanceSystem.runtimeconfig.json
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\bin\Debug\net8.0\StudentAttendanceSystem.dll
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\bin\Debug\net8.0\StudentAttendanceSystem.pdb
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.AssemblyInfoInputs.cache
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.AssemblyInfo.cs
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.dll
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\refint\StudentAttendanceSystem.dll
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.pdb
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\StudentAttendanceSystem.genruntimeconfig.cache
+C:\Users\sbkay\Downloads\StudentAttendanceSystem\obj\Debug\net8.0\ref\StudentAttendanceSystem.dll
