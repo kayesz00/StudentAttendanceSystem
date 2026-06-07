@@ -20,8 +20,6 @@ namespace StudentAttendanceSystem
             _classGroup = classGroup;
         }
 
-        // ⭐ PASTE THE NEW CODE BELOW THIS LINE ⭐
-
         private void AttendanceForm_Load(object sender, EventArgs e)
         {
             lstStudents.DataSource = _classGroup.Students.ToList();
