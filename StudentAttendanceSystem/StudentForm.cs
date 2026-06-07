@@ -1,4 +1,6 @@
-﻿using System;
+// This form manages adding and removing students from a class
+// It loads the student list and updates it when changes are made
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,10 +22,9 @@ namespace StudentAttendanceSystem
             _classGroup = classGroup;
         }
 
-        // ⭐ PASTE THE STEP 3 CODE HERE ⭐
-
         private void StudentForm_Load(object sender, EventArgs e)
         {
+            // Load the list of students when the form opens
             RefreshStudentList();
         }
 
