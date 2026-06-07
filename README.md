@@ -38,8 +38,7 @@ The application demonstrates OOP principles including classes, encapsulation, in
 - Microsoft Copilot – used for debugging explanations and guidance (all code manually implemented and fully understood)
 
 ## Additional Documents
-- Idea Proposal (Milestone 1) – PDF
-- Progress Report (Milestone 2) – PDF
+- Idea Proposal – PDF
 
 ## Author
 Safayet Bin Kayes  
